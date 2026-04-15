@@ -1,0 +1,6 @@
+# Optional overrides for core.validation gates (loaded by core.config.load_config).
+min_clustering_accuracy: 0.75
+min_ari: 0.7
+min_network_nodes: 3
+# max_network_density: 0.1   # uncomment to enforce sparse PPIs only
+min_simulation_time_points: 50
