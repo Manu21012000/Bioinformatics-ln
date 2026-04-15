@@ -78,4 +78,4 @@ If a saved 3D PNG looked **blank**, that was often Matplotlib’s `tight_layout(
 
 ## Purpose
 
-Demonstrate end-to-end translation from biological questions to code: multi-step pipelines, explicit validation, and typed data—not a generic “portfolio” label, but **named workflows** you can extend or reuse.
+Demonstrate end-to-end translation from biological questions to code: multi-step pipelines, explicit validation
