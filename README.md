@@ -28,6 +28,3 @@ To get started with any of the workflows:
 1. Clone the repository.
 2. Navigate to the `bioinformatics-workflows` directory.
 3. Follow the instructions in the respective project's README file.
-
-### Contributing
-We welcome contributions from the community! Please follow the standard procedure for pull requests, and ensure your code is well-documented.
